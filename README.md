@@ -48,7 +48,12 @@ This is a Note Taker application that can be used to write and save notes. It wi
 
 ## Deployed Application Link
 
-[Deployed Application Link]()
+[Deployed Application Link](https://express-js-note-taker-0e78df75c4eb.herokuapp.com/)
+
+## Screenshots of Deployed Application
+
+![default-page](./assets/default-page.png)
+![new-note](./assets/new-note.png)
 
 ## Technologies Used
 
@@ -63,10 +68,13 @@ Be sure you have the following technologies installed so it properly runs:
 
 ## Installation Process
 
-1. Clone the Repository from GitHub
-2. (or) Download Zip Folder from Repository from GitHub
-3. Open the cloned (or downloaded) repository in any source code editor.
-4. Open the integrated terminal for the document and complete the respective installation guides provided in "Built With" to ensure the cloned documentation will operate.
+1.  Clone the Repository from GitHub
+2.  (or) Download Zip Folder from Repository from GitHub
+3.  Open the cloned (or downloaded) repository in any source code editor.
+4.  Open the integrated terminal for the document and complete the respective installation guides provided in "Technologies Used" to ensure the cloned documentation will operate.
+5.  To initiate the application in your localhost run the following command in your integrate terminal:
+
+        npm start
 
 ## Author
 
